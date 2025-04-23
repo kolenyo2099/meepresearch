@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/user-attachments/assets/02fce1d3-e020-4d89-b4bc-952056958bf4)
 
-# Meep Research: Kind of Deep Research Tool but with _some_ control over sources.
+# Meep Research: Kind of like a Deep Research Tool but with _some_ control over sources.
 > **Quick Start - Option:** For an automated setup (recommended), open tour terminal and use the installation script (provided you have python installed):
 > ```bash
 > # Download the setup.sh script
