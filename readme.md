@@ -55,7 +55,6 @@ https://pubmed.ncbi.nlm.nih.gov/?term=artificial+intelligence+diagnostics+accura
 - **Advanced Search Operators**: Leverage powerful search syntax across different platforms
 - **AI-Driven Analysis**: Use Gemini models to understand content, extract insights, and synthesize findings
 - **Automated Workflows**: Let the AI navigate through sources, following promising leads autonomously
-- **Local Deployment**: Run everything on your own machine for privacy and customization
 
 ## Installation & Setup
 
