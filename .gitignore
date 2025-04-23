@@ -1,0 +1,14 @@
+# Ignore specific files and folders
+agent_history.gif
+run_app.sh
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.log 
