@@ -1,4 +1,4 @@
-# Meep Research: Kind of Deep Research Tool but with _some_ control of sources.
+# Meep Research: Kind of Deep Research Tool but with _some_ control over sources.
 > **Quick Start - Option 2:** For an automated setup (recommended), use our installation script:
 > ```bash
 > # Download the setup.sh script
